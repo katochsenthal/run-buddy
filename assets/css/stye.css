@@ -1,11 +1,13 @@
 * {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 body {
   color: #39a6b2;
   font-size: Helvetica, Arial, sans-serif;
 }
+/* Header and nav styling */
 header {
   padding: 20px 35px;
   background-color: #39a6b2;
@@ -38,13 +40,81 @@ header nav ul li a {
   font-size: 22px;
 }
 
-/* #what-we-do {
-}
-#what-you-do {
+/* Footer */
+
+footer {
+  background-color: #fce138;
+  width: 100%;
+  padding: 40px 35px;
 }
 
-#your-trainers {
+footer h2 {
+  display: inline;
+  color: #204e76;
+  font-size: 30px;
+  margin: 0;
 }
 
-#reach-out {
-} */
+footer div {
+  float: right;
+  line-height: 1.5;
+  text-align: right;
+}
+footer a {
+  color: #024e76;
+}
+
+section {
+  padding: 60px;
+}
+/* hero style start */
+.hero {
+  background-image: url("../images/hero-bg.jpeg");
+  height: 600px;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.hero-form {
+  border: 3px solid #024e76;
+  color: #024e76;
+  background-color: #fce138;
+  padding: 20px;
+  width: 500px;
+  position: absolute;
+  bottom: 120px;
+  right: 140px;
+}
+
+.hero-form h3 {
+  font-size: 25px;
+  margin: 0px;
+}
+
+.hero-form p {
+  margin: 5px 0 15px 0;
+}
+.form-input {
+  border: 1px solid #024e76;
+  display: block;
+  padding: 7px 15px;
+  font-size: 16px;
+  color: #024e76;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.hero-form label {
+  margin: 0 5px;
+}
+
+.hero-form button {
+  background-color: #024e76;
+  color: #fce138;
+  font-size: 16px;
+  padding: 10px 20px;
+  border: none;
+}
+
+/* Hero style end */
