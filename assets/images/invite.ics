@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20220224T140000Z
+DTEND:20220224T144500Z
+DTSTAMP:20220221T141311Z
+ORGANIZER;CN=shay@videoly.co:mailto:shay@videoly.co
+UID:61f14afee87dd10063b00110+62133b4829446a3c39fdb3f6-70b9525e-partner@even
+ t.cronofy.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=katoch.senthal@yahoo.com;X-NUM-GUESTS=0:mailto:katoch.senthal@yahoo
+ .com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=shay@videoly.co;X-NUM-GUESTS=0:mailto:shay@videoly.co
+X-GOOGLE-CONFERENCE:https://meet.google.com/mse-kggg-ecx
+X-MICROSOFT-CDO-OWNERAPPTID:134235613
+CREATED:20220221T071208Z
+DESCRIPTION:<html-blob><br>Hello Senthol\,<br><br>I am unfortunately not ab
+ le to reschedule the call for 9am EST today. I am able to schedule a call w
+ ith you this Thursday for 9am. Let me know if this will work for you.🙂<br>
+ <br>Best\,<br><br>Shay<br><br><br>Go to the candidate card on Teamtailor to
+  join video meeting<br><br>Candidate: Senthol Kumar<br><br>View on Teamtail
+ or: <a href="https://app.teamtailor.com/companies/VUk4AqwfcIE/candidates/24
+ 624973" id="ow3140" __is_owner="true">https://app.teamtailor.com/companies/
+ VUk4AqwfcIE/candidates/24624973</a></html-blob>\n\n-::~:~::~:~:~:~:~:~:~:~:
+ ~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-\nDo not edi
+ t this section of the description.\n\nThis event has a video call.\nJoin: h
+ ttps://meet.google.com/mse-kggg-ecx\n\nView your event at https://calendar.
+ google.com/calendar/event?action=VIEW&eid=XzZvb21jYzlrYzVqNmFwOW82dGk2OGM5Z
+ zYwcjM2b2hnNjBvajJjMWI2b3AzMmNwamM4cTNnY2hwNmdxM2NvOWpjY3BqaXBqNGM4cG1jZGhk
+ NnNvNjRlOWw2OHFtYWJiZ2M1cDc4cmo1ZTkwNmF0ajVkcHEyc29yaWR0bjZ1cGpwNXBobXVyOCB
+ rYXRvY2guc2VudGhhbEB5YWhvby5jb20&tok=MTUjc2hheUB2aWRlb2x5LmNvMDZlNWEzOGE4Nm
+ RhNmQyYmYwNTVmNzEzZGUxMTY3ZTFhNWVlZGI5OQ&ctz=Europe%2FHelsinki&hl=en&es=1.\
+ n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:
+ ~:~:~::~:~::-
+LAST-MODIFIED:20220221T141310Z
+LOCATION:
+SEQUENCE:1645427528
+STATUS:CONFIRMED
+SUMMARY:Senthol & Videoly
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
