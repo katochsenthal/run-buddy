@@ -139,6 +139,10 @@ section {
   border-radius: 15px;
 }
 
+.hero-form button:hover {
+  background-color: var(--tertiary-color);
+}
+
 .hero-form h3 {
   font-size: 25px;
   margin: 0px;
@@ -175,9 +179,6 @@ section {
   padding: 10px 20px;
   border: none;
   border-radius: 10px;
-}
-.hero-form button:hover {
-  background-color: var(--tertiary-color);
 }
 
 .checkbox-wrapper input,
@@ -521,6 +522,10 @@ section {
 
   .step-text {
     flex: 100%;
+  }
+  .trainer-bio h3,
+  .trainer-bio h4 {
+    display: block;
   }
 }
 
